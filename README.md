@@ -39,4 +39,4 @@
 ## Finishing the Shot  
 Congratulations! You have now completed the shot using the BEEF technique. Continue practicing to perfect your form and become a more confident shooter.
 
-
+![Alt Text](https://github.com/PaigeFrank/Writing-Descriptions-in-Markdown/blob/main/giphy.gif?raw=true)
